@@ -1,0 +1,1 @@
+Person{id=123, name='Pankaj', permanent=true, address=Address@27808f31, phoneNumbers=[123456, 987654], role='Manager', cities=[Los Angeles, New York], properties=Properties@436e852b}
